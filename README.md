@@ -1,2 +1,3 @@
-# deep_reinforcement_learning
-Agents
+# Evolutionary Computation
+
+### Evolutionary Strategies
